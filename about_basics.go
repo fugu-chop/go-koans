@@ -13,6 +13,8 @@ func aboutBasics() {
 	assert(5%2 == 1)
 	assert(5*2 == 10)
 	// This is a bitwise operator
+	// Need to turn ints to binary and compare bits
+	// 101 versus 010 -> 111 (which is 7)
 	assert(5^2 == 7)
 
 	var x int
