@@ -25,7 +25,7 @@ var __runner__ runner = nil
 
 func TestKoans(t *testing.T) {
 	aboutBasics()
-	// aboutStrings()
+	aboutStrings()
 	// aboutArrays()
 	// aboutSlices()
 	// aboutTypes()
